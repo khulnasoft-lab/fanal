@@ -10,7 +10,7 @@ require (
 	github.com/BurntSushi/toml v1.3.2 // indirect
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
 	github.com/alicebob/miniredis/v2 v2.21.0
-	github.com/aws/aws-sdk-go v1.45.24
+	github.com/aws/aws-sdk-go v1.47.0
 	github.com/containerd/containerd v1.7.6 // replace
 	github.com/docker/docker v24.0.6+incompatible // replace
 	github.com/docker/go-connections v0.4.0
