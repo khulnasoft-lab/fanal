@@ -12,7 +12,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.21.0
 	github.com/aws/aws-sdk-go v1.45.24
 	github.com/containerd/containerd v1.7.8 // replace
-	github.com/docker/docker v24.0.6+incompatible // replace
+	github.com/docker/docker v24.0.7+incompatible // replace
 	github.com/docker/go-connections v0.4.0
 	github.com/go-git/go-git/v5 v5.5.2
 	github.com/go-redis/redis/v8 v8.11.5
