@@ -36,7 +36,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.3-0.20220303224323-02efb9a75ee1
 	github.com/samber/lo v1.21.0
 	github.com/saracen/walker v0.0.0-20191201085201-324a081bae7e
-	github.com/sosedoff/gitkit v0.3.0
+	github.com/sosedoff/gitkit v0.4.0
 	github.com/stretchr/testify v1.7.2
 	github.com/testcontainers/testcontainers-go v0.13.0
 	github.com/urfave/cli/v2 v2.8.1
