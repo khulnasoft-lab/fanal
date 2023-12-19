@@ -14,7 +14,7 @@ require (
 	github.com/aquasecurity/go-version v0.0.0-20210121072130-637058cfe492
 	github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516
 	github.com/aws/aws-sdk-go v1.44.25
-	github.com/containerd/containerd v1.6.4 // replace
+	github.com/containerd/containerd v1.6.26 // replace
 	github.com/containerd/nerdctl v0.20.0
 	github.com/docker/docker v20.10.16+incompatible // replace
 	github.com/docker/go-connections v0.4.0
