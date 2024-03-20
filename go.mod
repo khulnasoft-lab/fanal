@@ -16,7 +16,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.25
 	github.com/containerd/containerd v1.6.4 // replace
 	github.com/containerd/nerdctl v0.20.0
-	github.com/docker/docker v20.10.16+incompatible // replace
+	github.com/docker/docker v24.0.9+incompatible // replace
 	github.com/docker/go-connections v0.4.0
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-redis/redis/v8 v8.11.5
